@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+World!;I'm+Song+Solen;Welcome+to+my+GitHub" />
+</p>
+
 
 <!--
 **Solen-s/Solen-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
