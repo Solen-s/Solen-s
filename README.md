@@ -14,11 +14,9 @@
 
 **Languages & Frameworks**
 <br />
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,ts,tailwind&theme=dark" />
-  </a>
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  <img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,ts,tailwind&theme=dark" />
+</marquee>
 
 **Databases & Infrastructure**
 <br />
