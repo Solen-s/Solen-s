@@ -36,6 +36,12 @@
   <img src="https://img.shields.io/badge/argocd-%23EF7B4D.svg?style=for-the-badge&logo=argocd&logoColor=white" />
 </marquee>
 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,ts,tailwind,postgres,linux,bash,docker,kubernetes,jenkins,argocd&theme=dark" />
+  </a>
+</p>
 ---
 
 ##  GitHub Stats
