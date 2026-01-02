@@ -46,7 +46,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: *(https://www.linkedin.com/in/solen-song-3589ab392/)*
-- 📧 Email: *solen0918@gmail.com*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solen-song-3589ab392/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solen0918@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL_HERE)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
 
 
