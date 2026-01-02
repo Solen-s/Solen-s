@@ -10,7 +10,7 @@
 - 🌱 Currently learning Kubernetes, CI/CD, Cloud Infra and DevSecOps
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 <br />
@@ -30,14 +30,14 @@
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Solen-s&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-##  Contribution 
+## Contribution 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Solen-s/Solen-s/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/Solen-s/Solen-s/output/snake.svg">
@@ -45,9 +45,8 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/solen-song-3589ab392/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solen0918@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@SoLandd)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/songsolen)
