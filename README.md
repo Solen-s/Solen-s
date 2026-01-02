@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+Solen-s" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=0AEFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Song+Solen;DevOps+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=0AEFFF&center=true&vCenter=true&width=600&lines=I'm+DevOps+Engineer" />
 
 
 <!--
