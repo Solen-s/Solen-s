@@ -14,6 +14,7 @@ jobs:
           github_user_name: Solen-s
           bg_color: "transparent"    # transparent background
           snake_color: "#36BCF7"     # cyan snake
+          minimal: true
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg
