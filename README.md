@@ -1,4 +1,4 @@
-<p style=center>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=00ffc7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Solen-s;DevOps+Engineer" />
 </p>
 
