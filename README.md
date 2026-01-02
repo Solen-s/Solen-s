@@ -14,9 +14,9 @@
 
 **Languages & Frameworks**
 <br />
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,ts,tailwind&theme=dark" />
-</marquee>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Java+%2B+Spring+Boot;Next.js+%2B+TypeScript;PostgreSQL+%2B+Docker;Jenkins+%2B+ArgoCD" />
+</p>
 
 **Databases & Infrastructure**
 <br />
