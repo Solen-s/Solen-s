@@ -12,8 +12,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Solen-s
-          bg_color: "transparent"    # transparent background
+          bg_color: "#0D1117"    # transparent background
           snake_color: "#36BCF7"     # cyan snake
+          grid_color: "#767676"
           minimal: true
           outputs: |
             dist/snake.svg
